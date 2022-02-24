@@ -6,4 +6,4 @@ app.get('/home', (req, res) => {
     res.send('Olá Turma. Engenharia da Computação ESAMC!');
 });
  
-app.listen(3333);
+app.listen(80);
